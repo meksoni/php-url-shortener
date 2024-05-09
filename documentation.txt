@@ -8,4 +8,6 @@ Structure of table:
 2. long_url - VARCHAR(255)
 
 Change the data for the database connection in the code
+Change app_url in db_connect file.
+
 And have fun :)
