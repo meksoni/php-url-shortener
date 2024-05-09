@@ -1,0 +1,11 @@
+Create Database
+
+DB NAME: url_shortener
+TABLE NAME: urls
+
+Structure of table:
+1. id - int(11) - AUTO_INCREMENT, PRIMARY
+2. long_url - VARCHAR(255)
+
+Change the data for the database connection in the code
+And have fun :)
